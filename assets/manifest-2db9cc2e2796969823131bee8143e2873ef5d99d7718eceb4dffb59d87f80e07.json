@@ -1,0 +1,20 @@
+{
+  "short_name": "Merna",
+  "name": "Merna",
+  "icons": [
+    {
+      "src":"/assets/icons/192x192-3ac663da6e6a4a85473a5b542db307efa1ad372b70922756395850468477c99b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src":"/assets/icons/512x512-f27b1adacafdecbddcec9a4d6d03afd6d5b4652b2d9a3120324104b0f57326c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#333",
+  "theme_color": "#333",
+  "display": "standalone"
+}
